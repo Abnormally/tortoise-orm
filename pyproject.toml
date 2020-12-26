@@ -33,7 +33,7 @@ classifiers = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.6"
 pypika = "^0.44.0"
 iso8601 = "^0.1.13"
 aiosqlite = "^0.16.0"
